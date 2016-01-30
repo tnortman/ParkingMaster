@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>ParkingMasterFinal</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<variableList>
+		<variable>
+			<name>Deps</name>
+			<value>file:/C:/Users/Brandon/Documents/workspace/SEproj/UCanAccess-2%200%209%204-bin/UCanAccess-2.0.9.4-bin/lib</value>
+		</variable>
+	</variableList>
+</projectDescription>
